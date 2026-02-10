@@ -1,2 +1,2 @@
 Spam Detector (Python GUI + Machine Learning)
-This project is a simple Spam Message Classifier that uses machine learning to classify messages as Spam or Ham (Not Spam). It includes a Tkinter-based graphical interface for user interaction.
+This project is a Email Spam and Phishing Detection System that uses machine learning to classify messages as Spam or Legitimate. It includes a Tkinter-based graphical interface for user interaction.
